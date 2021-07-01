@@ -22,6 +22,9 @@ function App() {
                     <Route path="/inventory">
                         <Inventory />
                     </Route>
+                    <Route path="/inventory">
+                        <Inventory />
+                    </Route>
                     <Route exact path="/">
                         <Shop />
                     </Route>
